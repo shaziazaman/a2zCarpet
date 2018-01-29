@@ -113,11 +113,8 @@ html body .container-fluid.body-content {
     overflow-y: auto;
 }
 
-h5.phone-font{
-    color: #400040;
-}
-p.phone-font{
-    color: #400040;
+a[href^=tel] {
+    color: black;
 }
 /* ==========================================================================
    Helper classes
