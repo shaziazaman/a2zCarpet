@@ -100,7 +100,6 @@ html body .container-fluid.header-content{
 }
 html body .container-fluid.footer-content{
     width: 100%;
-    position: fixed;
     background: #8080ff;
     padding: 10px 0;
     color: #400040;
